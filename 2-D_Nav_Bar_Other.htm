@@ -1,0 +1,91 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Canadian Vacations RV Park &amp; Outpost Lake Homes, Dogtooth Lake, Ontario, Canada</title>
+ <script src="http://www.google.com/jsapi?key=ABQIAAAA-xNNCwXlvgyLDY9Q7Sia4BRFbFeONYQKmoLDCxP3jsGOhi8b4hQZgOwMQQF-rHIp2NnoH5czg9_Q3w" type="text/javascript"></script>
+ <script src="http://github.com/jamespadolsey/jQuery-Plugins/raw/master/cross-domain-ajax/jquery.xdomainajax.js"  type="text/javascript"></script>
+ <script language="Javascript" type="text/javascript">
+  //<![CDATA[
+  
+     google.load("jquery", "1.4.2");
+	 
+	 // Accepts a url and a callback function to run.
+function requestCrossDomain( site, callback ) {
+	
+	// If no url was passed, exit.
+	if ( !site ) {
+		alert('No site was passed.');
+		return false;
+	}
+	
+	// Take the provided url, and add it to a YQL query. Make sure you encode it!
+	var yql = 'http://query.yahooapis.com/v1/public/yql?q=' + encodeURIComponent('select * from html where url="' + site + '"') + '&format=xml&callback=?';
+	
+	// Request that YSQL string, and run a callback function.
+	// Pass a defined function to prevent cache-busting.
+	$.getJSON( yql, cbFunc );
+	
+	function cbFunc(data) {
+	// If we have something to work with...
+	if ( data.results[0] ) {
+		// Strip out all script tags, for security reasons.
+		// BE VERY CAREFUL. This helps, but we should do more. 
+		data = data.results[0].replace(/<script[^>]*>[\s\S]*?<\/script>/gi, '');
+		
+		// If the user passed a callback, and it
+		// is a function, call it, and send through the data var.
+		if ( typeof callback === 'function') {
+			callback(data);
+		}
+	}
+	// Else, Maybe we requested a site that doesn't exist, and nothing returned.
+	else throw new Error('Nothing returned from getJSON.');
+	}
+}
+
+  //]]>
+    </script>
+ <meta name="description" content="Canadian Vacations, Dogtooth Lake, Ontario, Canada – A Canadian Fishing Resort offering Northern Pike, Walleye, Bass, Musky Trout, Crappies and many other species">
+<script language="JavaScript">
+<!--
+function FP_preloadImgs() {//v1.0
+ var d=document,a=arguments; if(!d.FP_imgs) d.FP_imgs=new Array();
+ for(var i=0; i<a.length; i++) { d.FP_imgs[i]=new Image; d.FP_imgs[i].src=a[i]; }
+}
+
+function FP_swapImg() {//v1.0
+ var doc=document,args=arguments,elm,n; doc.$imgSwaps=new Array(); for(n=2; n<args.length;
+ n+=2) { elm=FP_getObjectByID(args[n]); if(elm) { doc.$imgSwaps[doc.$imgSwaps.length]=elm;
+ elm.$src=elm.src; elm.src=args[n+1]; } }
+}
+
+function FP_getObjectByID(id,o) {//v1.0
+ var c,el,els,f,m,n; if(!o)o=document; if(o.getElementById) el=o.getElementById(id);
+ else if(o.layers) c=o.layers; else if(o.all) el=o.all[id]; if(el) return el;
+ if(o.id==id || o.name==id) return o; if(o.childNodes) c=o.childNodes; if(c)
+ for(n=0; n<c.length; n++) { el=FP_getObjectByID(id,c[n]); if(el) return el; }
+ f=o.forms; if(f) for(n=0; n<f.length; n++) { els=f[n].elements;
+ for(m=0; m<els.length; m++){ el=FP_getObjectByID(id,els[n]); if(el) return el; } }
+ return null;
+}
+// -->
+</script>
+<base target="_top">
+</head>
+
+<body bgcolor="#535425" onload="FP_preloadImgs(/*url*/'button1D.jpg',/*url*/'button1F.jpg',/*url*/'buttonF0.jpg',/*url*/'buttonF1.jpg',/*url*/'buttonF3.jpg',/*url*/'buttonF4.jpg',/*url*/'buttonF6.jpg',/*url*/'buttonF7.jpg',/*url*/'buttonF9.jpg',/*url*/'buttonFA.jpg',/*url*/'buttonFF.jpg',/*url*/'button108.jpg',/*url*/'button109.jpg',/*url*/'button110.jpg',/*url*/'button111.jpg',/*url*/'button112.jpg',/*url*/'button113.jpg',/*url*/'button114.jpg',/*url*/'button10B.jpg',/*url*/'button10C.jpg')">
+
+<p>&nbsp;</p>
+<div style="position: absolute; width: 129px; height: 227px; z-index: 2; left: 10px; top: 42px" id="layer2">
+	<p align="center"><a target="_top" href="1_A_Frame&#32;-&#32;Main.htm">
+	<img border="0" id="img65" src="buttonEF.jpg" height="25" width="125" alt="HOME" fp-style="fp-btn: Embossed Rectangle 4; fp-font-style: Bold; fp-font-color-hover: #0000FF; fp-font-color-press: #FF0000" fp-title="HOME" onmouseover="FP_swapImg(1,0,/*id*/'img65',/*url*/'buttonF0.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img65',/*url*/'buttonEF.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img65',/*url*/'buttonF1.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img65',/*url*/'buttonF0.jpg')"></a><a target="contents_main" href="2_B_Nav_Bar_Accom.htm"><img border="0" id="img36" src="buttonF2.jpg" height="25" width="125" alt="Accomodations" fp-style="fp-btn: Embossed Rectangle 4; fp-font-style: Bold; fp-font-color-hover: #0000FF; fp-font-color-press: #FF0000" fp-title="Accomodations" onmouseover="FP_swapImg(1,0,/*id*/'img36',/*url*/'buttonF3.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img36',/*url*/'buttonF2.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img36',/*url*/'buttonF4.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img36',/*url*/'buttonF3.jpg')"></a><a target="contents_main" href="2-C_Nav_Bar_Contact&#32;Us.htm"><img border="0" id="img66" src="buttonF5.jpg" height="25" width="125" alt="Contact Us" fp-style="fp-btn: Embossed Rectangle 4; fp-font-style: Bold; fp-font-color-hover: #0000FF; fp-font-color-press: #FF0000" fp-title="Contact Us" onmouseover="FP_swapImg(1,0,/*id*/'img66',/*url*/'buttonF6.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img66',/*url*/'buttonF5.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img66',/*url*/'buttonF7.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img66',/*url*/'buttonF6.jpg')"></a><img border="0" id="img49" src="buttonF8.jpg" height="25" width="125" alt="Other Info" fp-style="fp-btn: Embossed Rectangle 4; fp-font-style: Bold; fp-font-color-normal: #FF0000; fp-font-color-press: #0000FF" fp-title="Other Info" onmouseover="FP_swapImg(1,0,/*id*/'img49',/*url*/'buttonF9.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img49',/*url*/'buttonF8.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img49',/*url*/'buttonFA.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img49',/*url*/'buttonF9.jpg')"><a target="main_main" href="7_A_Other&#32;Info_Fishing.htm"><img border="0" id="img46" src="button115.jpg" height="25" width="125" alt="&gt; Fishing" fp-style="fp-btn: Embossed Rectangle 4; fp-font-style: Bold Italic; fp-font-size: 9; fp-font-color-normal: #0000FF; fp-font-color-press: #FF0000; fp-justify-horiz: 0" fp-title="&gt; Fishing" onmouseover="FP_swapImg(1,0,/*id*/'img46',/*url*/'button109.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img46',/*url*/'button115.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img46',/*url*/'button110.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img46',/*url*/'button109.jpg')"></a><a target="main_main" href="7_A_Other&#32;Info_Border-Customs.htm"><img border="0" id="img47" src="buttonFE.jpg" height="25" width="125" alt="&gt; Border/Customs" fp-style="fp-btn: Embossed Rectangle 4; fp-font-style: Bold Italic; fp-font-size: 9; fp-font-color-normal: #0000FF; fp-font-color-press: #FF0000; fp-justify-horiz: 0" fp-title="&gt; Border/Customs" onmouseover="FP_swapImg(1,0,/*id*/'img47',/*url*/'buttonFF.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img47',/*url*/'buttonFE.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img47',/*url*/'button108.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img47',/*url*/'buttonFF.jpg')"></a><a target="main_main" href="http://www.theweathernetwork.com/parksfx/caon1549"><img border="0" id="img62" src="button116.jpg" height="25" width="125" alt="&gt; Weather" fp-style="fp-btn: Embossed Rectangle 4; fp-font-style: Bold Italic; fp-font-size: 9; fp-font-color-normal: #0000FF; fp-font-color-press: #FF0000; fp-justify-horiz: 0" fp-title="&gt; Weather" onmouseover="FP_swapImg(1,0,/*id*/'img62',/*url*/'button111.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img62',/*url*/'button116.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img62',/*url*/'button112.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img62',/*url*/'button111.jpg')"></a><a target="main_main" href="7_A_Other&#32;Info_DT&#32;Map.htm"><img border="0" id="img63" src="button117.jpg" height="25" width="125" alt="&gt; Map - Dogtooth" fp-style="fp-btn: Embossed Rectangle 4; fp-font-style: Bold Italic; fp-font-size: 9; fp-font-color-normal: #0000FF; fp-font-color-press: #FF0000; fp-justify-horiz: 0" fp-title="&gt; Map - Dogtooth" onmouseover="FP_swapImg(1,0,/*id*/'img63',/*url*/'button113.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img63',/*url*/'button117.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img63',/*url*/'button114.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img63',/*url*/'button113.jpg')"></a><a target="main_main" href="7_A_Other&#32;Info_Items&#32;of&#32;Interest.htm"><img border="0" id="img64" src="button10A.jpg" height="25" width="125" alt="&gt; Miscellaneous" onmouseover="FP_swapImg(1,0,/*id*/'img64',/*url*/'button10B.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img64',/*url*/'button10A.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img64',/*url*/'button10C.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img64',/*url*/'button10B.jpg')" fp-style="fp-btn: Embossed Rectangle 4; fp-font-style: Bold Italic; fp-font-size: 9; fp-font-color-normal: #0000FF; fp-font-color-press: #FF0000; fp-justify-horiz: 0" fp-title="&gt; Miscellaneous"></a></div>
+
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp;</p>
+
+</body>
+
+</html>

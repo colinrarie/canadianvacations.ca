@@ -1,0 +1,44 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Canadian Vacations RV Park &amp; Outpost Lake Homes, Dogtooth Lake, Ontario, Canada</title>
+<meta name="description" content="Canadian Vacations, Dogtooth Lake, Ontario, Canada – A Canadian Fishing Resort offering Northern Pike, Walleye, Bass, Musky Trout, Crappies and many other species">
+<script language="JavaScript">
+<!--
+function FP_preloadImgs() {//v1.0
+ var d=document,a=arguments; if(!d.FP_imgs) d.FP_imgs=new Array();
+ for(var i=0; i<a.length; i++) { d.FP_imgs[i]=new Image; d.FP_imgs[i].src=a[i]; }
+}
+
+function FP_swapImg() {//v1.0
+ var doc=document,args=arguments,elm,n; doc.$imgSwaps=new Array(); for(n=2; n<args.length;
+ n+=2) { elm=FP_getObjectByID(args[n]); if(elm) { doc.$imgSwaps[doc.$imgSwaps.length]=elm;
+ elm.$src=elm.src; elm.src=args[n+1]; } }
+}
+
+function FP_getObjectByID(id,o) {//v1.0
+ var c,el,els,f,m,n; if(!o)o=document; if(o.getElementById) el=o.getElementById(id);
+ else if(o.layers) c=o.layers; else if(o.all) el=o.all[id]; if(el) return el;
+ if(o.id==id || o.name==id) return o; if(o.childNodes) c=o.childNodes; if(c)
+ for(n=0; n<c.length; n++) { el=FP_getObjectByID(id,c[n]); if(el) return el; }
+ f=o.forms; if(f) for(n=0; n<f.length; n++) { els=f[n].elements;
+ for(m=0; m<els.length; m++){ el=FP_getObjectByID(id,els[n]); if(el) return el; } }
+ return null;
+}
+// -->
+</script>
+<base target="_top">
+</head>
+
+<body bgcolor="#535425" onload="FP_preloadImgs(/*url*/'button1D.jpg', /*url*/'button30.jpg', /*url*/'button32.jpg', /*url*/'button49.jpg', /*url*/'button31.jpg', /*url*/'buttonC0.jpg', /*url*/'buttonC2.jpg', /*url*/'buttonC3.jpg', /*url*/'buttonC4.jpg', /*url*/'buttonC6.jpg', /*url*/'buttonC7.jpg', /*url*/'buttonC9.jpg', /*url*/'buttonCA.jpg', /*url*/'buttonCC.jpg', /*url*/'buttonCD.jpg', /*url*/'buttonD8.jpg', /*url*/'buttonD9.jpg', /*url*/'buttonDB.jpg', /*url*/'buttonDC.jpg')">
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div style="position: absolute; width: 129px; height: 159px; z-index: 2; left: 10px; top: 42px" id="layer2">
+	<p align="center"><a target="_top" href="1_A_Frame%20-%20Main.htm">
+	<img border="0" id="img47" src="buttonBF.jpg" height="25" width="125" alt="HOME" onmouseover="FP_swapImg(1,0,/*id*/'img47',/*url*/'buttonC0.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img47',/*url*/'buttonBF.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img47',/*url*/'buttonC2.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img47',/*url*/'buttonC0.jpg')" fp-style="fp-btn: Embossed Rectangle 4; fp-font-style: Bold; fp-font-color-hover: #0000FF; fp-font-color-press: #FF0000" fp-title="HOME"></a><a target="contents_main" href="2_B_Nav_Bar_Accom.htm"><img border="0" id="img36" src="buttonC5.jpg" height="25" width="125" alt="Accomodations" fp-style="fp-btn: Embossed Rectangle 4; fp-font-style: Bold; fp-font-color-normal: #FF0000; fp-font-color-press: #0000FF" fp-title="Accomodations" onmouseover="FP_swapImg(1,0,/*id*/'img36',/*url*/'buttonC3.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img36',/*url*/'buttonC5.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img36',/*url*/'buttonC4.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img36',/*url*/'buttonC3.jpg')"></a><a target="main_main" href="5_A_Accomodations.htm"><img border="0" id="img46" src="buttonC8.jpg" height="25" width="125" alt="&gt;     Main List      &lt;" onmouseover="FP_swapImg(1,0,/*id*/'img46',/*url*/'buttonC6.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img46',/*url*/'buttonC8.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img46',/*url*/'buttonC7.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img46',/*url*/'buttonC6.jpg')" fp-style="fp-btn: Embossed Rectangle 4; fp-font-style: Bold Italic; fp-font-size: 9; fp-font-color-normal: #0000FF; fp-font-color-press: #FF0000; fp-justify-horiz: 0" fp-title="&gt;     Main List      &lt;"></a><a target="main_main" href="5_B_Accom_Pine%20Point_Features.htm"><img border="0" id="img37" src="buttonC10.jpg" height="25" width="125" alt="&gt;     Pine Point" fp-style="fp-btn: Embossed Rectangle 4; fp-font-style: Bold Italic; fp-font-size: 9; fp-font-color-normal: #0000FF; fp-font-color-press: #FF0000; fp-justify-horiz: 0" fp-title="&gt;     Pine Point" onmouseover="FP_swapImg(1,0,/*id*/'img37',/*url*/'buttonC9.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img37',/*url*/'buttonC10.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img37',/*url*/'buttonCA.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img37',/*url*/'buttonC9.jpg')"></a><a target="main_main" href="5_B_Accom_Pine%20Cove_Features.htm"><img border="0" id="img38" src="buttonCB.jpg" height="25" width="125" alt="&gt;     Pine Cove" fp-style="fp-btn: Embossed Rectangle 4; fp-font-style: Bold Italic; fp-font-size: 9; fp-font-color-normal: #0000FF; fp-font-color-press: #FF0000; fp-justify-horiz: 0" fp-title="&gt;     Pine Cove" onmouseover="FP_swapImg(1,0,/*id*/'img38',/*url*/'buttonCC.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img38',/*url*/'buttonCB.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img38',/*url*/'buttonCD.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img38',/*url*/'buttonCC.jpg')"></a><a target="contents_main" href="2-C_Nav_Bar_Contact%20Us.htm"><img border="0" id="img48" src="buttonD7.jpg" height="25" width="125" alt="Contact Us" fp-style="fp-btn: Embossed Rectangle 4; fp-font-style: Bold; fp-font-color-hover: #0000FF; fp-font-color-press: #FF0000" fp-title="Contact Us" onmouseover="FP_swapImg(1,0,/*id*/'img48',/*url*/'buttonD8.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img48',/*url*/'buttonD7.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img48',/*url*/'buttonD9.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img48',/*url*/'buttonD8.jpg')"></a><a target="contents_main" href="2-D_Nav_Bar_Other.htm"><img border="0" id="img45" src="buttonDA.jpg" height="25" width="125" alt="Other Info" onmouseover="FP_swapImg(1,0,/*id*/'img45',/*url*/'buttonDB.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img45',/*url*/'buttonDA.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img45',/*url*/'buttonDC.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img45',/*url*/'buttonDB.jpg')" fp-style="fp-btn: Embossed Rectangle 4; fp-font-style: Bold; fp-font-color-hover: #0000FF; fp-font-color-press: #FF0000" fp-title="Other Info"></a></div>
+
+</body>
+
+</html>
